@@ -1,6 +1,6 @@
 # Effucient Regret Minimization in Non-Convex Games Project
+###### Algorithms in Uncertain Scenarios (097280, Technion) - Final Project
 
-The attached PDF is the final project in the course Algorithms in Uncertain Scenarios (097280, Technion).
 In the project my partner and I review the paper of Hazan et al. (from 2017) and in particular the approach of local regret,
 which generalizes the concept of regret to online non-convex problems (assuming a static best model). We briefly analyze the
 algorithms, the assumptions and the theoretical results and in the end, we propose to switch the regular Newton method to
