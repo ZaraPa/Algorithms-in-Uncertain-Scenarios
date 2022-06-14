@@ -8,8 +8,10 @@ algorithms, the assumptions and the theoretical results and in the end, we propo
 Quasi-Newton and present the pros and cons of it.
 </p>
 
-<p align="justify"> The paper of Hazan et al. introduces us a new notion of local regret for online non-convex problems. It proves convergence to a
+<p align="justify">
+The paper of Hazan et al. introduces us a new notion of local regret for online non-convex problems. It proves convergence to a
 local equilibrium or a local minima. From a mathematical point of view - It would be interesting to investigate under which
-conditions does one converge to the global optimum (but that is for the future). </p>
+conditions does one converge to the global optimum (but that is for the future).
+</p>
 
-<p><p> We can also observe that the main novelty of the paper is the use of time smoothing(by t) of the objective function.
+We can also observe that the main novelty of the paper is the use of _time smoothing (by t)_ of the objective function.
